@@ -23,7 +23,7 @@ Disclaimer
 
 Keep in mind that altering game assets might contravene game terms of service or intellectual property rights. Responsible and ethical use of this tool is advised, strictly for personal or educational pursuits.
 
-#Research
+## Research
 ## Data - Section
 ### `Data` section contains all the data that were used for Game Level/A.I/3D-Objects/Graphs etc.
 - `Data/AI` - Contains data scripts regarding A.I behaviours and Actions used in level like `level/AI/503.qvm`.
