@@ -1,15 +1,12 @@
-### Что такое шаблоны?
+### What are templates?
 
-Двоичные шаблоны, одна из самых мощных функций **010 Editor**, позволяют разбивать практически любой двоичный файл на ряд переменных. Шаблоны позволяют понимать и редактировать двоичные файлы гораздо проще, чем обычные HEX редакторы.  
-Каждый шаблон хранится в виде текстового файла с расширением **.bt** и может быть отредактирован непосредственно в **010 Editor**.
+Binary templates, one of the most powerful features of **010 Editor**, allow you to break down almost any binary file into a series of variables. Templates make it much easier to understand and edit binary files than regular HEX editors.  
+Each template is stored as a text file with the **.bt** extension and can be edited directly in **010 Editor**.
 
-### Как использавать шаблоны?
+### How to use templates?
 
-1. Устанавливаем [010 Editor](https://www.sweetscape.com/010editor "010 Editor homepage") и запускаем его
-2. Перетаскиваем в редактор файл который хотим проанализаровать
-3. В меню выбираем *Templates > Open template* или *CTRL+F5*
-4. Выбираем из папки */Project-IGI/templates/...* шаблон соответствующий формату выбраного ранее файла
-5. Переходим во вкладку выраного файла и нажимаем на кнопку *Run template*
-
-### All data templates were provided by Artiom.
-![Project-IGI Templates](https://github.com/NEWME0/Project-IGI)
+1. Install [010 Editor](https://www.sweetscape.com/010editor "010 Editor homepage") and launch it.
+2. Drag the file you want to analyze into the editor.
+3. From the menu, select *Templates > Open template* or use *CTRL+F5*.
+4. Choose a template from the */Project-IGI/templates/...* folder that matches the format of the file you selected earlier.
+5. Go to the tab of the selected file and click the *Run template* button.
