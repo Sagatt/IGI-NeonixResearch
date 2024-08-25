@@ -1,0 +1,1 @@
+Taken from the dedicated server 1.2 file (igi2_dsp1.2.zip)
