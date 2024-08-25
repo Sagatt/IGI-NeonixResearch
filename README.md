@@ -1,11 +1,11 @@
 # IGINeonixEditor
-Welcome to **IGINeonixEditor**, an advanced utility for modifying textures in *Project IGI 1* and *Project IGI 2*.
+Welcome to **IGINeonixEditor**, an advanced utility for modifying textures in *Project IGI 1* and *IGI 2*.
 
 ## Features
-- **Texture Replacement**: Easily modify `.res` and `.tex` texture files used in *Project IGI 1* and *Project IGI 2* with IGINeonixEditor.
+- **Texture Replacement**: Easily modify `.res` and `.tex` texture files.
 
 ## Contribution
-Join Project Outerloop is dedicated to reverse-engineering *IGI 1* and *IGI 2*, providing insights into the game's mechanics and structure.
+Join Project Outerloop is dedicated to reverse-engineering *Project IGI 1* and *IGI 2*, providing insights into the game's mechanics and structure.
 [Join Project Outerloop on Discord](https://discord.gg/G9F3gauatb)
 
 ## Disclaimer
