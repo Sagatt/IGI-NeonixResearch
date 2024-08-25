@@ -27,9 +27,12 @@ Some data was decompiled from the original `igi.exe` using [IDA](https://hex-ray
 ## Credits
 - **neoxaero** - Neonix Team CEO
 - **Soon**	- Coding IGINeonixEditor
-- **Cynergy** - Creating Project Outerloop
-- **Feritcoder** - Reverse Engineering IGI2
-- **Yoejin Light** - Reverse Engineering IGI1
-- **Dimon Krevedko** - [VK Profile](https://vk.com/dimonkrevedko)
-- **Artiom Rotari** - [GitHub Profile](https://github.com/NEWME0)
-- **ORWA S** - Graphs Area and Nodes
+- **Cynergy** - Project Outerloop CEO
+- **HeavenHM** - IGI 1 Tools
+- **Yoejin Light** - MTP, models structure, and information
+- **Dimon Krevedko** - Graphs and nodes structure and information
+- **Artiom Rotari** - DConv tools for decompiling and scripting
+- **ORWA S** - Compilation of information on graphs area and nodes
+- **GM123** - Detailed models information
+- **Dark** - Contributions to various projects and files (Resources, QVM, QSC, etc.).
+- **FeritCoder** - Assistance with converting IGI 2 editor maps/models to IGI 1
