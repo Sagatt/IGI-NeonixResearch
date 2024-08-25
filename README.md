@@ -5,7 +5,6 @@ Welcome to **IGINeonixEditor**, an advanced utility for easily modifying `.res` 
 Join Project Outerloop is dedicated to reverse-engineering *Project IGI 1* and *IGI 2*, providing insights into the game's mechanics and structure.
 [Join Project Outerloop on Discord](https://discord.gg/G9F3gauatb)
 
-##IGI Research
 ### Data Section
 The `Data` section contains all the files used for game levels, AI, 3D objects, graphs, using runtime or static analysis methods.
 - **`Data/AI`**: Contains AI behavior and action scripts used in levels, such as `level/AI/503.qvm`.
