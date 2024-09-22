@@ -1,5 +1,5 @@
-# IGINeonixEditor
-Welcome to **IGINeonixEditor**, an advanced utility for easily modifying `.res` and `.tex` texture files in *Project IGI 1* and *IGI 2*.
+# IGI-NeonixResearch
+Welcome to **IGI-NeonixResearch**, an research repository for *Project IGI 1* and *IGI 2*.
 
 ## Contribution
 Join Project Outerloop is dedicated to reverse-engineering *Project IGI 1* and *IGI 2*, providing insights into the game's mechanics and structure.
