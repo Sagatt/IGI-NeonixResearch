@@ -2,8 +2,8 @@
 Welcome to **IGI-NeonixResearch**, an research repository for *Project IGI 1* and *IGI 2*.
 
 ## Contribution
-Join Project Outerloop is dedicated to reverse-engineering *Project IGI 1* and *IGI 2*, providing insights into the game's mechanics and structure.
-[Join Project Outerloop on Discord](https://discord.gg/G9F3gauatb)
+Join the Neonix discord!
+[Join Neonix on Discord](https://discord.gg/GdXMbbVUcE)
 
 ### Data Section
 The `Data` section contains all the files used for game levels, AI, 3D objects, graphs, using runtime or static analysis methods.
