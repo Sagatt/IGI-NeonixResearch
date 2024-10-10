@@ -1,0 +1,1 @@
+Taken from the IGI2Editor 1.1 file (igi2-editor.zip)
