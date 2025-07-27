@@ -25,9 +25,7 @@ Some data was decompiled from the original `igi.exe` using [IDA](https://hex-ray
 
 ## Credits
 - **neoxaero** - Neonix Team CEO
-- **Soon**	- Coding IGINeonixEditor
-- **Cynergy** - Project Outerloop CEO
-- **HeavenHM** - IGI 1 Tools
+- **HeavenHM** - IGI QVM Editor tool
 - **Yoejin Light** - MTP, models structure, and information
 - **Dimon Krevedko** - Graphs and nodes structure and information
 - **Artiom Rotari** - DConv tools for decompiling and scripting
